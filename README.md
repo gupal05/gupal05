@@ -1,31 +1,65 @@
-# 안녕하세요, [gupal05]입니다! 👋
+<h1 align="center">Hi👋</h1>
 
-제 GitHub에 방문해주셔서 감사합니다! 저는 다양한 기술에 열정을 가진 소프트웨어 개발자입니다. 제가 사용하는 도구와 기술에 대해 간단히 소개할게요.
+<p align="center">
+  Thank you for visiting my GitHub profile! I am a software developer with a passion for various technologies. Here’s a brief overview of the tools and technologies I use.
+</p>
 
-## 🛠️ 도구 및 기술
+<div style="margin: 30px 0;"></div>
 
-| Java | Spring | Maven | JavaScript | HTML |
-|:----:|:-------:|:------:|:-----------:|:----:|
-| ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat&logo=java&logoColor=black) | ![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat&logo=spring&logoColor=white) | ![Maven](https://img.shields.io/badge/-Maven-%23C71A36?style=flat&logo=apachemaven&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7E018?style=flat&logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=white) |
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
-| CSS | Oracle | Git | AJAX | Eclipse | Visual Studio |
-|:---:|:------:|:---:|:----:|:-------:|:--------------:|
-| ![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat&logo=css3&logoColor=white) | ![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=flat&logo=oracle&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-%23F1502F?style=flat&logo=git&logoColor=white) | ![AJAX](https://img.shields.io/badge/-AJAX-%23000000?style=flat&logo=ajax&logoColor=white) | ![Eclipse](https://img.shields.io/badge/-Eclipse-%23E0E0E0?style=flat&logo=eclipse&logoColor=black) | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=flat&logo=visual-studio&logoColor=white) |
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-%23F7DF1C?style=flat&logo=java&logoColor=black" alt="Java">
+  <img src="https://img.shields.io/badge/-Spring-%236DB33F?style=flat&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/-Maven-%23C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7E018?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+</p>
 
-## 🌐 연락처
-- **이메일:** [dudgh2349@naver.com](mailto:dudgh2349@naver.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/-CSS-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/-Oracle-%23F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/-Git-%23F1502F?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-AJAX-%23000000?style=flat&logo=ajax&logoColor=white" alt="AJAX">
+  <img src="https://img.shields.io/badge/-Eclipse-%23E0E0E0?style=flat&logo=eclipse&logoColor=black" alt="Eclipse">
+  <img src="https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio">
+</p>
 
-## 🔭 현재 작업 중
-- **Spring, Maven, MVC**를 사용한 [puppy] 라는 개인 프로젝트 개발과 SpringBoot, SpringSecurity, JPA 공부에 집중하고 있습니다.
+<div style="margin: 30px 0;"></div>
 
-## 📈 GitHub 통계
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=false)
+<h2 align="center">📚 Studying</h2>
 
-## 🚀 재미있는 사실
-새로운 기술을 탐구하고 최신 소프트웨어 트렌드를 따라가는 것을 좋아합니다. 항상 배움을 추구하며 성장해 나가고 있습니다.
+<p align="center">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/-Spring%20Security-%23000000?style=flat&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/-JPA-%23F79C42?style=flat&logo=jpa&logoColor=white" alt="JPA">
+</p>
 
-저의 프로젝트를 살펴보시고, 궁금한 점이 있거나 연결하고 싶으시다면 언제든지 연락주세요!
+<div style="margin: 30px 0;"></div>
+
+<h2 align="center">🌐 Contact</h2>
+<p align="center">
+  <strong>Mail:</strong> <a href="mailto:dudgh2349@naver.com">dudgh2349@naver.com</a>
+</p>
+
+<div style="margin: 30px 0;"></div>
+
+<h2 align="center">📈 GitHub Report</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=false" alt="GitHub Stats">
+</p>
+
+<div style="margin: 30px 0;"></div>
+
+<h2 align="center" style="color: #f39c12;">🚀 About Me</h2>
+
+<p align="center" style="font-size: 16px; line-height: 1.6; color: #34495e;">
+  <strong>Hi there!</strong> 👋 I am currently studying and aspiring to become a <strong>Java developer</strong>. I am passionate about learning new technologies and staying updated with the latest software trends. If you want to explore my projects or connect with me, feel free to reach out! <a href="mailto:dudgh2349@naver.com" style="color: #3498db;">Let's connect!</a>
+</p>
+
+<div style="margin: 30px 0;"></div>
 
 ---
 
-**행복한 코딩 되세요!** 😊
+**Happy Coding!** 😊
