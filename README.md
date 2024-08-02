@@ -44,14 +44,6 @@
 
 <div style="margin: 30px 0;"></div>
 
-<h2 align="center">📈 GitHub Report</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=false" alt="GitHub Stats">
-</p>
-
-<div style="margin: 30px 0;"></div>
-
 <h2 align="center" style="color: #f39c12;">🚀 About Me</h2>
 
 <p align="center" style="font-size: 16px; line-height: 1.6; color: #34495e;">
