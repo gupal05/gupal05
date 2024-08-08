@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/-Maven-%23C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven">
   <img src="https://img.shields.io/badge/-JavaScript-%23F7E018?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/-Tomcat-%23F8DC75?style=flat&logo=apachetomcat&logoColor=black" alt="Tomcat">
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-CSS-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
