@@ -15,7 +15,10 @@
   <img src="https://img.shields.io/badge/-JavaScript-%23F7E018?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/-Tomcat-%23F8DC75?style=flat&logo=apachetomcat&logoColor=black" alt="Tomcat">
+  <img src="https://img.shields.io/badge/-JSP-%23F7DF1C?style=flat&logo=java&logoColor=black" alt="JSP">
+  <img src="https://img.shields.io/badge/-JSTL-%23F7DF1C?style=flat&logo=java&logoColor=black" alt="JSTL">
 </p>
+
 
 
 <p align="center">
