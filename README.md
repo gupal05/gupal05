@@ -140,8 +140,8 @@ Java와 Spring 생태계에서 깊이 있는 경험을 쌓아가는 열정적인
   
 | 프로젝트 | 기술 스택 | 설명 |
 |:--------:|:--------:|:-----:|
-| [프로젝트명](프로젝트링크) | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> | 프로젝트에 대한 간단한 설명을 입력하세요 |
-| [프로젝트명](프로젝트링크) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> | 프로젝트에 대한 간단한 설명을 입력하세요 |
+| [AI_NaviGo](https://github.com/gupal05/puppy) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> | AI를 활용한 사용자 맞춤 여행 일정 생성 웹사이트 |
+| [PUPPY](https://github.com/PlaidMoon99/AI_NaviGo) | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> | 결제 기능이 있는 쇼핑몰 웹사이트 |
 
 </div>
 
