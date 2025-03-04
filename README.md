@@ -1,172 +1,96 @@
-<div align="center">
-  
-# ✨ 황영호 | Young-ho Hwang ✨
+# 👋 안녕하세요, 황영호입니다!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%26+Spring+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=6A5ACD" alt="프로필 조회수"/>
-<a href="mailto:dudgh2349@naver.com"><img src="https://img.shields.io/badge/Email-dudgh2349%40naver.com-6A5ACD?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="tel:01023491054"><img src="https://img.shields.io/badge/Phone-010--2349--1054-6A5ACD?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gupal05&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub 트로피" />
-</div>
-
-## 🌟 About Me
-
-> *"코드는 예술이고, 개발은 여정입니다."*
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
-Java와 Spring 생태계에서 깊이 있는 경험을 쌓아가는 열정적인 풀스택 개발자입니다. 백엔드와 프론트엔드 기술을 모두 다루며, 데이터베이스 관리에도 능숙합니다. 학습과 성장을 지향하며 최신 개발 트렌드를 항상 주시합니다.
-
-- 🔭 현재 [현재 하고 있는 일/프로젝트]에 참여하고 있습니다
-- 🌱 Spring Boot, AWS, React를 학습 중입니다
-- 👯 웹 애플리케이션 개발 프로젝트 협업을 찾고 있습니다
-- 💬 Java, Spring, 웹 개발에 관해 질문해주세요
-- ⚡ 취미: [취미 작성]
-
-<br clear="right"/>
-
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring" width="65" height="65" />
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65" />
-      <br>FastAPI
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="65" height="65" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="65" height="65" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="65" height="65" />
-      <br>Oracle
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="65" height="65" />
-      <br>MariaDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="65" height="65" />
-      <br>JSP
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><b>📊 더 자세한 기술 스택</b></summary>
-  <br>
-  
-  ### 백엔드
-  
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-  ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
-  ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![JSTL](https://img.shields.io/badge/JSTL-007396?style=for-the-badge&logo=java&logoColor=white)
-  
-  ### 프론트엔드
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-  
-  ### 데이터베이스
-  
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-  
-  ### 개발 도구
-  
-  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</details>
-
-## 📊 GitHub 통계
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gupal05&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="GitHub 통계" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupal05&layout=compact&hide_border=true&title_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="많이 사용한 언어" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gupal05&bg_color=0d1117&color=6A5ACD&line=7B68EE&point=FFFFFF&hide_border=true" alt="GitHub 기여 그래프" />
-</div>
-
-
-## 🏆 주요 프로젝트
-
-<div align="center">
-  
-| 프로젝트 | 기술 스택 | 설명 |
-|:--------:|:--------:|:-----:|
-| [AI_NaviGo](https://github.com/gupal05/puppy) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> | AI를 활용한 사용자 맞춤 여행 일정 생성 웹사이트 |
-| [PUPPY](https://github.com/PlaidMoon99/AI_NaviGo) | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> | 결제 기능이 있는 쇼핑몰 웹사이트 |
-
-</div>
-
-## 📮 연락처
-
-<div align="center">
-  <a href="mailto:dudgh2349@naver.com">
-    <img src="https://img.shields.io/badge/Email-dudgh2349%40naver.com-6A5ACD?style=for-the-badge&logo=naver&logoColor=white" alt="Email"/>
-  </a>
-  
-  <a href="tel:01023491054">
-    <img src="https://img.shields.io/badge/Phone-010--2349--1054-6A5ACD?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
-  
-  <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-gupal05-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+## 👩‍💻 About Me  
+🌟 **생년월일:** 1998.10.26  
+📖 **교육과정:**  
+- **SpringFramework 개발 과정** (인천일보아카데미) | 2022.09 ~ 2023.03 (6개월)  
+- **AI 개발 과정** (휴먼IT교육센터) | 2024.12 ~ 2025.02 (2개월)  
 
 ---
 
-<div align="center">
-  
-### 💬 방문해주셔서 감사합니다!
+## 🛠️ Tech Stack  
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer)
+### 💾 데이터베이스  
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+</p>
 
-</div>
+- Oracle, MariaDB를 활용한 데이터베이스 설계 및 관리  
+- 서브쿼리와 조인을 활용한 복잡한 데이터 조작  
+- View 생성 및 활용을 통한 데이터 가공  
+- 데이터베이스 성능 최적화 학습  
+
+---
+
+### 🎯 프론트엔드  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+
+- HTML5/CSS3를 활용한 반응형 웹 페이지 구현  
+- JavaScript와 다양한 API를 활용한 동적 웹 기능 구현  
+- Bootstrap을 활용한 모던 UI/UX 디자인  
+- 개인 포트폴리오 웹사이트 제작  
+
+---
+
+### ☕ Java & Spring  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+</p>
+
+- Eclipse & IntelliJ를 활용한 Java 프로그래밍  
+- 객체 지향 프로그래밍(OOP) 개념 학습 (캡슐화, 상속, 다형성)  
+- 데이터베이스 연동을 통한 CRUD 기능 구현  
+- Spring Boot 기반의 웹 애플리케이션 개발  
+- MVC 아키텍처 패턴 이해 및 적용  
+- Spring Security를 활용한 인증/인가 구현  
+- MyBatis를 활용한 데이터 처리  
+
+---
+
+### 🐍 Python & AI  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
+
+- Python 기반의 데이터 분석 및 처리  
+- 머신 러닝 모델 개발 및 운용  
+- 딥 러닝 프레임워크 활용  
+- 자연어 처리(NLP) 기초  
+
+---
+
+### 🔧 Git & 형상관리  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+- Git을 활용한 버전 관리 및 협업 workflow 학습  
+- Git Bash를 통한 명령어 기반 저장소 관리  
+- Branch 전략을 활용한 팀 프로젝트 수행  
+- Code Review 프로세스 경험  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gupal05&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+</p>  
+
+---
+
+## 📫 Contact  
+✉️ **Email:** [dudgh2349@naver.com](mailto:dudgh2349@naver.com)  
+📞 **Phone:** [010-2349-1054](tel:010-2349-1054)  
+🚀 **GitHub:** [github.com/gupal05](https://github.com/gupal05)
+
