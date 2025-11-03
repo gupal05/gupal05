@@ -1,96 +1,129 @@
-# 👋 안녕하세요, 황영호입니다!
-
-## 👩‍💻 About Me  
-🌟 **생년월일:** 1998.10.26  
-📖 **교육과정:**  
-- **SpringFramework 개발 과정** (인천일보아카데미) | 2022.09 ~ 2023.03 (6개월)  
-- **AI 개발 과정** (휴먼IT교육센터) | 2024.12 ~ 2025.02 (2개월)  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💾 데이터베이스  
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-</p>
-
-- Oracle, MariaDB를 활용한 데이터베이스 설계 및 관리  
-- 서브쿼리와 조인을 활용한 복잡한 데이터 조작  
-- View 생성 및 활용을 통한 데이터 가공  
-- 데이터베이스 성능 최적화 학습  
-
----
-
-### 🎯 프론트엔드  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</p>
-
-- HTML5/CSS3를 활용한 반응형 웹 페이지 구현  
-- JavaScript와 다양한 API를 활용한 동적 웹 기능 구현  
-- Bootstrap을 활용한 모던 UI/UX 디자인  
-- 개인 포트폴리오 웹사이트 제작  
-
----
-
-### ☕ Java & Spring  
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-</p>
-
-- Eclipse & IntelliJ를 활용한 Java 프로그래밍  
-- 객체 지향 프로그래밍(OOP) 개념 학습 (캡슐화, 상속, 다형성)  
-- 데이터베이스 연동을 통한 CRUD 기능 구현  
-- Spring Boot 기반의 웹 애플리케이션 개발  
-- MVC 아키텍처 패턴 이해 및 적용  
-- Spring Security를 활용한 인증/인가 구현  
-- MyBatis를 활용한 데이터 처리  
-
----
-
-### 🐍 Python & AI  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-</p>
-
-- Python 기반의 데이터 분석 및 처리  
-- 머신 러닝 모델 개발 및 운용  
-- 딥 러닝 프레임워크 활용  
-- 자연어 처리(NLP) 기초  
-
----
-
-### 🔧 Git & 형상관리  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
-- Git을 활용한 버전 관리 및 협업 workflow 학습  
-- Git Bash를 통한 명령어 기반 저장소 관리  
-- Branch 전략을 활용한 팀 프로젝트 수행  
-- Code Review 프로세스 경험  
-
----
-
-## 📊 GitHub Stats  
+<h1 align="center">👋 안녕하세요, 백엔드 개발자 <strong>황영호</strong>입니다</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gupal05&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-</p>  
+  <strong>📧</strong> <a href="mailto:dudgh2349@naver.com">dudgh2349@naver.com</a> &nbsp;|&nbsp;
+  <strong>📞</strong> <a href="tel:010-2349-1054">010-2349-1054</a>  
+</p>
+<p align="center">
+  <strong>🌐</strong> <a href="https://gupal05.github.io" target="_blank">Portfolio</a> &nbsp;|&nbsp;
+  <strong>💻</strong> <a href="https://github.com/gupal05" target="_blank">GitHub</a>
+</p>
 
 ---
 
-## 📫 Contact  
-✉️ **Email:** [dudgh2349@naver.com](mailto:dudgh2349@naver.com)  
-📞 **Phone:** [010-2349-1054](tel:010-2349-1054)  
-🚀 **GitHub:** [github.com/gupal05](https://github.com/gupal05)
+## 🧭 소개 (About Me)
 
+> 서비스 운영 경험을 기반으로, **기획 → 개발 → 배포 → 운영** 전 과정을 수행할 수 있는  
+> **Spring Boot 백엔드 개발자**입니다.  
+> 단순한 기능 구현이 아닌, **안정성과 확장성을 고려한 구조적 설계**를 지향합니다.
+
+---
+
+## ⚙️ 경력 요약
+
+- Spring Boot 기반 전자상거래 및 백오피스 시스템 **개발 및 운영 경험**
+- AWS EC2, RDS, S3, Docker, Nginx 환경에서 **실서비스 배포 및 관리**
+- MVC 아키텍처 및 RESTful API 설계 능숙 / MyBatis, JPA 실무 활용
+- GitHub Actions 기반 **CI/CD 자동화** 및 Redis 캐싱을 통한 성능 최적화
+
+---
+
+## 🧰 핵심 기술 스택
+
+| 영역 | 기술 |
+|------|------|
+| **Back-End** | Java · Spring Boot · MyBatis · JPA · Gradle · Maven |
+| **Database** | MySQL · PostgreSQL · Redis |
+| **Infra / DevOps** | AWS (EC2, RDS, S3) · Docker · Nginx · GitHub Actions (CI/CD) |
+| **Front-End (기초)** | Thymeleaf · HTML5 · CSS3 · JavaScript (ES6) |
+| **Tools** | Linux · Git · IntelliJ · STS · DBeaver |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,nginx,githubactions,postgresql,mysql,redis,html,css,js" />
+</p>
+
+---
+
+## 🚀 프로젝트 경력
+
+### 🛍 **Hollybam — 성인인증 프리미엄 쇼핑몰 (상용 서비스)**
+📅 **개발 기간:** 2025.06 ~ 2025.08  
+👥 **개발 인원:** 1명 (사내 단독 개발)  
+🏢 **소속:** ㈜혜안파트너스  
+🧩 **기술:** Spring Boot · MyBatis · AWS EC2/RDS/S3 · Docker · GitHub Actions  
+
+💡 **주요 내용**
+- 성인 인증 기반의 프리미엄 쇼핑몰 서비스 (NICE 본인인증 API 연동)
+- 회원/비회원 주문, 장바구니, 리뷰, 결제 기능 통합 개발
+- PG사 결제 API 연동 및 결제 로그 관리 시스템 구축
+- AWS EC2 + Docker + GitHub Actions 기반 **CI/CD 자동 배포 파이프라인 구축**
+
+🔗 [포트폴리오 보기](https://gupal05.github.io/hollybam.html)
+
+---
+
+### 🎧 **Arcsona — 고급 이어폰·헤드셋 쇼핑몰**
+📅 **개발 기간:** 2025.08 ~ 2025.10  
+👥 **개발 인원:** 4명 (프론트 2, 백엔드 2)  
+🧩 **기술:** Spring Boot · PostgreSQL · Redis · Flyway · Docker  
+
+💡 **주요 내용**
+- Redis를 이용한 주문 완료 전 임시 데이터 저장 로직 구현  
+- 상품 CRUD 및 회원 기능 중심의 RESTful API 설계  
+- Flyway 기반 DB 버전 관리 및 마이그레이션 자동화  
+- 사업자등록 절차로 인해 배포 대기 중 (AWS 배포 준비 완료)
+
+🔗 [포트폴리오 보기](https://gupal05.github.io/arcsona.html)
+
+---
+
+### 🧩 **TotalSeller Backoffice — B2B 계약·프로세스 관리 시스템**
+📅 **개발 기간:** 2025.10 ~ 2025.11  
+👥 **개발 인원:** 3명 (프론트 1, 백엔드 2)  
+🧩 **기술:** Spring Boot · PostgreSQL · Flyway · Docker · Scheduler  
+
+💡 **주요 내용**
+- **MSA 기반 백오피스 서비스**, 프론트오피스와 독립 배포 구조 설계  
+- 팀·직원·클라이언트 간 계약 및 프로세스 관리 기능 개발  
+- Scheduler 기반 데이터 동기화 구현 (Kafka 미사용)  
+- GitHub Actions + Docker Compose로 EC2 자동 배포 구성  
+
+🔗 [포트폴리오 보기](https://gupal05.github.io/totalseller.html)
+
+---
+
+## 🏢 경력 요약
+
+| 기간 | 소속 | 직무 |
+|------|------|------|
+| **2025.06 ~ 현재** | ㈜혜안파트너스 | **백엔드 개발자**<br>- Hollybam, Arcsona, TotalSeller Backoffice 개발 및 운영<br>- AWS 인프라 설계 및 배포 자동화 구축 |
+| **2023.08 ~ 2024.09** | ㈜인천일보아카데미 | **경영지원**<br>- 사내 LMS 관리 및 유지보수<br>- 비전공 교육생 기초 프로그래밍 교육 담당 |
+
+---
+
+## 🎓 교육 이수 내역
+- 2024.12 ~ 2025.02 | (수원휴먼IT교육센터) **AI 기반 웹개발 과정 수료**  
+- 2022.09 ~ 2023.03 | (인천일보아카데미) **자바·스프링 백엔드 과정 수료**
+
+---
+
+## 🙋‍♂️ 자기소개
+
+> “**서비스를 만드는 개발자**를 넘어,  
+> **서비스를 운영하고 성장시키는 개발자**가 되겠습니다.”  
+
+문제 해결 중심의 사고로, 서비스 운영 중 발생하는 이슈를 빠르게 파악하고 개선합니다.  
+Spring Boot와 AWS, Docker 환경을 기반으로,  
+안정적이고 유지보수 가능한 백엔드 아키텍처를 설계하는 데 강점을 가지고 있습니다.  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gupal05&show_icons=true&theme=tokyonight" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gupal05&theme=tokyonight" width="49%">
+</p>
+
+---
+
+<p align="center">💡 꾸준함과 구조적인 사고를 바탕으로 성장하는 백엔드 개발자 황영호입니다.</p>
